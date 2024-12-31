@@ -6,6 +6,6 @@ public class explicit {
 
         System.out.println(num);
         System.out.println(num2);  // here we can see the loss of data because the conversion was from larger datatype to smaller datatype;
-        
+
     }
 }
