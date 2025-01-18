@@ -1,10 +1,14 @@
 public class FunctionLearn {
 
-    public int addition(int a , int b){
-        return  a+b;
-
-    }
     public static void main(String[] args) {
-          add
+
+        addition(7,5);
+    }
+
+    public static int addition(int a , int b){
+        int sum = a+b;
+        System.out.println(sum);
+        return sum;
+
     }
 }
